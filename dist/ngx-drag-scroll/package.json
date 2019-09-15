@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bfwg/ngx-drag-scroll.git"
+    "url": "git+https://github.com/Amr-zaghloul-sary/ngx-drag-scroll-ng5.git"
   },
   "keywords": [
     "Angular",
@@ -21,7 +21,7 @@
   "author": "Fan Jin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bfwg/ngx-drag-scroll.git"
+    "url": "https://github.com/Amr-zaghloul-sary/ngx-drag-scroll-ng5.git"
   },
   "homepage": "https://github.com/bfwg/ngx-drag-scroll#readme",
   "peerDependencies": {
